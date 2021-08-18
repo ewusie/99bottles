@@ -1,0 +1,16 @@
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\bin\Debug\net5.0\99bottles.exe
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\bin\Debug\net5.0\99bottles.deps.json
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\bin\Debug\net5.0\99bottles.runtimeconfig.json
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\bin\Debug\net5.0\99bottles.runtimeconfig.dev.json
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\bin\Debug\net5.0\99bottles.dll
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\bin\Debug\net5.0\ref\99bottles.dll
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\bin\Debug\net5.0\99bottles.pdb
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\99bottles.csproj.AssemblyReference.cache
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\99bottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\99bottles.AssemblyInfoInputs.cache
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\99bottles.AssemblyInfo.cs
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\99bottles.csproj.CoreCompileInputs.cache
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\99bottles.dll
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\ref\99bottles.dll
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\99bottles.pdb
+C:\Users\felix.korsah\source\repos\99bottles\99bottles\obj\Debug\net5.0\99bottles.genruntimeconfig.cache
